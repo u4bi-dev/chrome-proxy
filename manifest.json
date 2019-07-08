@@ -1,0 +1,12 @@
+{
+    "name": "chrome-proxy",
+    "description" : "chrome-proxy",
+    "version": "1.0",
+    "manifest_version": 2,
+    "permissions": [
+
+    ],
+    "browser_action": {
+        "default_popup":"index.html"
+    }
+}
